@@ -1,0 +1,5 @@
+dht11 KEYWORD1
+
+humidity  KEYWORD2
+temperature KEYWORD2
+begin KEYWORD2
