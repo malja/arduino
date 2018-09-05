@@ -1,0 +1,14 @@
+Display KEYWORD1
+DisplayConfiguration    KEYWORD1
+
+enable  KEYWORD2
+disable KEYWORD2
+clear KEYWORD2
+home KEYWORD2
+showCursor KEYWORD2
+hideCursor KEYWORD2
+setCursorPosition KEYWORD2
+setCursorBlink KEYWORD2
+setCursorNoBlink KEYWORD2
+setLeftToRight  KEYWORD2
+setRightToLeft  KEYWORD2
