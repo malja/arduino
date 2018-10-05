@@ -1,0 +1,10 @@
+# Třídy
+Button	KEYWORD1
+
+# Funkce
+resetCounter	KEYWORD2
+getCounter	KEYWORD2
+setResolution	KEYWORD2
+onPressed	KEYWORD2
+onReleased	KEYWORD2
+update	KEYWORD2
